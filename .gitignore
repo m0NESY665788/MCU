@@ -1,0 +1,19 @@
+*.o
+*.d
+*.crf
+*.dep
+*.lnp
+*.axf
+*.htm
+*.map
+*.sct
+*.uvoptx
+*.uvguix.*
+JLinkLog.txt
+RTE/
+
+# 编译生成的文件夹
+MDK-ARM/DebugConfig/
+MDK-ARM/RTE/
+Objects/
+Listings/
